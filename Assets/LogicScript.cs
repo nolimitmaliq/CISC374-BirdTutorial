@@ -13,6 +13,7 @@ public class LogicScript : MonoBehaviour
      public GameObject titleScreen;
     public BirdScript bird;
     public bool gameIsActive;
+   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
