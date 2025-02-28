@@ -62,7 +62,7 @@ public class LogicScript : MonoBehaviour
     {
         if (highScoreText != null)
         {
-            highScoreText.text =highScore.ToString();
+            highScoreText.text = "High Score: " + highScore.ToString();
         }
         else
         {
